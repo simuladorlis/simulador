@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.b71edef2.chunk.css",
-    "main.js": "/static/js/main.2fad20cc.chunk.js",
-    "main.js.map": "/static/js/main.2fad20cc.chunk.js.map",
+    "main.css": "/static/css/main.1af975a1.chunk.css",
+    "main.js": "/static/js/main.4e243bb3.chunk.js",
+    "main.js.map": "/static/js/main.4e243bb3.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.009e013d.js",
     "runtime-main.js.map": "/static/js/runtime-main.009e013d.js.map",
     "static/js/2.8a10a8a7.chunk.js": "/static/js/2.8a10a8a7.chunk.js",
     "static/js/2.8a10a8a7.chunk.js.map": "/static/js/2.8a10a8a7.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.b71edef2.chunk.css.map": "/static/css/main.b71edef2.chunk.css.map",
+    "static/css/main.1af975a1.chunk.css.map": "/static/css/main.1af975a1.chunk.css.map",
     "static/js/2.8a10a8a7.chunk.js.LICENSE.txt": "/static/js/2.8a10a8a7.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/static/media/Radomir Tinkov - Gilroy-SemiBold.017ff10c.otf",
+    "static/media/index.css": "/static/media/pasouno.869bc5d0.jpg",
     "static/media/audio1.d9862bff.vtt": "/static/media/audio1.d9862bff.vtt",
     "static/media/audio2.aa9eb5f3.vtt": "/static/media/audio2.aa9eb5f3.vtt",
     "static/media/audio3.b3c59e7b.vtt": "/static/media/audio3.b3c59e7b.vtt",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.009e013d.js",
     "static/js/2.8a10a8a7.chunk.js",
-    "static/css/main.b71edef2.chunk.css",
-    "static/js/main.2fad20cc.chunk.js"
+    "static/css/main.1af975a1.chunk.css",
+    "static/js/main.4e243bb3.chunk.js"
   ]
 }
