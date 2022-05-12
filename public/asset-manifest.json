@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.b66569ae.chunk.css",
-    "main.js": "/static/js/main.708d8ae0.chunk.js",
-    "main.js.map": "/static/js/main.708d8ae0.chunk.js.map",
+    "main.js": "/static/js/main.d7bfc4c3.chunk.js",
+    "main.js.map": "/static/js/main.d7bfc4c3.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.15bfd3bf.js",
     "runtime-main.js.map": "/static/js/runtime-main.15bfd3bf.js.map",
     "static/js/2.cdda5c45.chunk.js": "/static/js/2.cdda5c45.chunk.js",
@@ -26,7 +26,7 @@
     "static/media/audio3.b3c59e7b.vtt": "/static/media/audio3.b3c59e7b.vtt",
     "static/media/audio4.84819991.vtt": "/static/media/audio4.84819991.vtt",
     "static/media/audio5.e2a24a27.vtt": "/static/media/audio5.e2a24a27.vtt",
-    "static/media/bebejunto.17218aaa.mp4": "/static/media/bebejunto.17218aaa.mp4",
+    "static/media/bebejunto.ace9b678.mp4": "/static/media/bebejunto.ace9b678.mp4",
     "static/media/biog.4d873f77.png": "/static/media/biog.4d873f77.png",
     "static/media/calendar_finish.2f44d775.svg": "/static/media/calendar_finish.2f44d775.svg",
     "static/media/dos_preparacion.d48e718d.png": "/static/media/dos_preparacion.d48e718d.png",
@@ -55,6 +55,6 @@
     "static/js/runtime-main.15bfd3bf.js",
     "static/js/2.cdda5c45.chunk.js",
     "static/css/main.b66569ae.chunk.css",
-    "static/js/main.708d8ae0.chunk.js"
+    "static/js/main.d7bfc4c3.chunk.js"
   ]
 }
